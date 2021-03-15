@@ -1,0 +1,347 @@
+PDGF receptor	1998	1
+PDGF receptor	2000	1
+PDGF receptor	2001	1
+GABAA receptor (benzodiazepine binding-site)	1958	1
+GABAA receptor (benzodiazepine binding-site)	1963	1
+Voltage-gated sodium channel	1980	1
+Voltage-gated sodium channel	1993	1
+Voltage-gated sodium channel	1994	1
+Follicle stimulating hormone	1985	1
+Follicle stimulating hormone	1997	1
+Interleukin-2 receptors	1990	1
+Interleukin-2 receptors	1995	1
+Interleukin-2 receptors	1996	1
+Interleukin-2 receptors	1997	1
+Interleukin-2 receptors	1998	2
+Interleukin-2 receptors	1999	2
+Gastric H(+)/K(+) ATPase	1981	1
+Gastric H(+)/K(+) ATPase	1989	1
+Tubulin beta	1990	1
+Tubulin beta	1992	2
+5-HT 3 receptor	1987	1
+5-HT 3 receptor	1991	1
+Interferon alpha/beta receptor	1981	1
+Interferon alpha/beta receptor	1986	2
+BCR-ABL tyrosine kinase	1998	1
+BCR-ABL tyrosine kinase	2000	1
+BCR-ABL tyrosine kinase	2001	1
+NMDA receptor	1993	1
+NMDA receptor	1994	1
+NMDA receptor	1995	1
+NMDA receptor	1996	1
+NMDA receptor	1997	1
+NMDA receptor	1998	1
+NMDA receptor	1999	1
+NMDA receptor	2000	1
+NMDA receptor	2001	1
+NMDA receptor	2003	1
+L-type calcium channel	1968	1
+L-type calcium channel	1981	1
+T-type calcium channel	1980	1
+T-type calcium channel	2000	1
+Glycoprotein IIb/IIIa receptor	1991	1
+Glycoprotein IIb/IIIa receptor	1992	1
+Glycoprotein IIb/IIIa receptor	1993	3
+Glycoprotein IIb/IIIa receptor	1994	1
+26S proteasome	1998	1
+26S proteasome	2001	1
+26S proteasome	2002	1
+26S proteasome	2003	1
+Alpha-L-iduronidase	1997	1
+Alpha-L-iduronidase	2000	1
+Alpha-L-iduronidase	2001	1
+Alpha-L-iduronidase	2002	1
+Alpha-L-iduronidase	2003	1
+Pancreatic triacylglycerol lipase	1995	1
+Pancreatic triacylglycerol lipase	1998	1
+Pancreatic triacylglycerol lipase	1999	1
+5-HT 1B receptor	1946	1
+5-HT 1D receptor	1989	1
+5-HT 1D receptor	1991	1
+5-HT 1D receptor	1992	1
+Alpha-galactosidase A	1998	1
+Alpha-galactosidase A	1999	2
+Alpha-galactosidase A	2000	1
+Alpha-galactosidase A	2001	1
+Alpha-galactosidase A	2002	2
+Alpha-galactosidase A	2003	2
+Acetylcholinesterase	1981	1
+Acetylcholinesterase	1991	1
+Acetylcholinesterase	1993	2
+4-hydroxyphenylpyruvate dioxygenase	1991	1
+4-hydroxyphenylpyruvate dioxygenase	2002	1
+cGMP-specific 3',5'-cyclic phosphodiesterase	1989	1
+cGMP-specific 3',5'-cyclic phosphodiesterase	1998	1
+Solute carrier family 12 member 1	1962	1
+Solute carrier family 12 member 1	1966	1
+Carbonic anhydrase 2	1961	1
+Carbonic anhydrase 2	1993	1
+Carbonic anhydrase 2	1994	1
+Sodium-dependent noradrenaline transporter	1957	1
+Sodium-dependent noradrenaline transporter	1959	1
+Cysteinyl leukotriene receptor 1	1988	1
+Cysteinyl leukotriene receptor 1	1991	1
+Cysteinyl leukotriene receptor 1	1994	1
+Cysteinyl leukotriene receptor 1	1996	1
+ATP-binding cassette sub-family C member 8	1969	1
+ATP-binding cassette sub-family C member 8	1984	1
+Retinoic acid receptor gamma	1968	1
+Retinoic acid receptor gamma	1971	1
+Ceramide glucosyltransferase	1999	1
+Ceramide glucosyltransferase	2002	1
+Ceramide glucosyltransferase	2003	1
+Antithrombin-III	1973	1
+Antithrombin-III	1984	1
+Antithrombin-III	1985	1
+Antithrombin-III	1986	1
+Antithrombin-III	1987	1
+Antithrombin-III	1988	2
+Antithrombin-III	1989	1
+Antithrombin-III	1990	1
+Antithrombin-III	1992	1
+Antithrombin-III	1993	2
+Cannabinoid receptor 2	1975	1
+Cannabinoid receptor 2	1983	1
+Cannabinoid receptor 2	1985	1
+Aromatase	1982	1
+Aromatase	1995	1
+Catechol O-methyltransferase	1972	1
+Catechol O-methyltransferase	1997	1
+Catechol O-methyltransferase	1998	2
+CAMPATH-1 antigen	1988	1
+CAMPATH-1 antigen	1999	1
+CAMPATH-1 antigen	2000	1
+CAMPATH-1 antigen	2001	1
+P2Y purinoceptor 12	1975	1
+P2Y purinoceptor 12	1991	1
+NPC1-like intracellular cholesterol transporter 1	1995	1
+NPC1-like intracellular cholesterol transporter 1	2001	1
+NPC1-like intracellular cholesterol transporter 1	2002	1
+Amine oxidase [flavin-containing] B	1987	1
+Amine oxidase [flavin-containing] B	1989	2
+Somatostatin receptor type 2	1981	1
+Somatostatin receptor type 2	1988	1
+Prostaglandin F2-alpha receptor	1986	1
+Prostaglandin F2-alpha receptor	1992	1
+Prostaglandin F2-alpha receptor	1993	1
+Prostaglandin F2-alpha receptor	1996	1
+T-cell surface antigen CD2	1997	1
+T-cell surface antigen CD2	1998	1
+T-cell surface antigen CD2	1999	1
+T-cell surface antigen CD2	2000	1
+T-cell surface antigen CD2	2001	1
+T-cell surface antigen CD2	2002	2
+T-cell surface antigen CD2	2003	2
+Gonadotropin-releasing hormone receptor	1981	1
+Gonadotropin-releasing hormone receptor	1982	1
+Gonadotropin-releasing hormone receptor	1985	1
+Somatotropin	1981	1
+Somatotropin	1982	1
+Somatotropin	1985	1
+Alpha-1A adrenergic receptor	1974	1
+Alpha-1A adrenergic receptor	1975	1
+Alpha-1A adrenergic receptor	1976	1
+Sodium-dependent serotonin transporter	1957	1
+Sodium-dependent serotonin transporter	1959	1
+Interleukin-1 receptor type 1	2000	1
+Interleukin-1 receptor type 1	2001	1
+Angiotensin-converting enzyme	1979	1
+Angiotensin-converting enzyme	1981	1
+Plasminogen	1958	1
+Plasminogen	1982	1
+Plasminogen	1983	1
+Plasminogen	1984	1
+Plasminogen	1985	1
+Plasminogen	1986	1
+Plasminogen	1987	2
+Myeloid cell surface antigen CD33	1993	1
+Myeloid cell surface antigen CD33	1994	1
+Myeloid cell surface antigen CD33	1995	1
+Myeloid cell surface antigen CD33	1996	1
+Myeloid cell surface antigen CD33	1997	2
+Myeloid cell surface antigen CD33	1998	2
+Myeloid cell surface antigen CD33	1999	2
+Myeloid cell surface antigen CD33	2000	3
+Synaptic vesicle glycoprotein 2A	1994	1
+Synaptic vesicle glycoprotein 2A	1999	1
+Cannabinoid receptor 1	1975	1
+Cannabinoid receptor 1	1983	1
+Cannabinoid receptor 1	1985	1
+Kit tyrosine kinase	1993	1
+Kit tyrosine kinase	1994	1
+Kit tyrosine kinase	1995	1
+Kit tyrosine kinase	1996	1
+Kit tyrosine kinase	1997	1
+Kit tyrosine kinase	1998	2
+Kit tyrosine kinase	1999	1
+Kit tyrosine kinase	2000	2
+Kit tyrosine kinase	2001	2
+Endothelin ET-A receptor	1993	1
+Endothelin ET-A receptor	1995	1
+Endothelin ET-A receptor	1996	1
+Endothelin ET-A receptor	1997	1
+Endothelin ET-A receptor	1998	2
+Endothelin ET-A receptor	1999	3
+Endothelin ET-A receptor	2000	3
+Endothelin ET-A receptor	2001	4
+Muscarinic acetylcholine receptor M3	1995	1
+Muscarinic acetylcholine receptor M3	1998	1
+Endothelin ET-B receptor	1995	1
+Endothelin ET-B receptor	1996	1
+Endothelin ET-B receptor	1997	1
+Endothelin ET-B receptor	1998	2
+Endothelin ET-B receptor	1999	2
+Endothelin ET-B receptor	2000	2
+Endothelin ET-B receptor	2001	2
+Type-1 angiotensin II receptor	1992	1
+Type-1 angiotensin II receptor	1994	2
+Type-1 angiotensin II receptor	1995	2
+Tumor necrosis factor	1957	1
+Tumor necrosis factor	1995	2
+Tumor necrosis factor	1996	2
+Tumor necrosis factor	1997	2
+Tumor necrosis factor	1998	4
+Serine/threonine-protein kinase mTOR	1994	1
+Serine/threonine-protein kinase mTOR	1996	2
+Serine/threonine-protein kinase mTOR	1997	1
+Serine/threonine-protein kinase mTOR	1998	1
+Serine/threonine-protein kinase mTOR	1999	1
+Peroxisome proliferator-activated receptor alpha	1930	1
+Peroxisome proliferator-activated receptor alpha	1967	1
+Growth hormone receptor	1998	1
+Growth hormone receptor	2001	1
+Growth hormone receptor	2002	1
+Growth hormone receptor	2003	1
+Dopamine D3 receptor	1967	1
+Histamine H1 receptor	1942	1
+Histamine H1 receptor	1985	1
+Prothrombin	1993	1
+Prothrombin	1996	1
+Prothrombin	1997	1
+Prothrombin	1998	1
+Substance-P receptor	1994	1
+Substance-P receptor	1999	1
+Substance-P receptor	2000	1
+Substance-P receptor	2001	1
+Substance-P receptor	2002	2
+Substance-P receptor	2003	2
+Prostaglandin G/H synthase 2	1973	1
+Prostaglandin G/H synthase 2	1988	1
+Alpha-1-antitrypsin	1980	1
+Alpha-1-antitrypsin	1987	1
+Peptidyl-prolyl cis-trans isomerase FKBP1A	1989	1
+Peptidyl-prolyl cis-trans isomerase FKBP1A	1994	1
+Prostacyclin receptor	1983	1
+Prostacyclin receptor	1988	1
+Prostacyclin receptor	1995	2
+DNA topoisomerase 2-alpha	1964	1
+DNA topoisomerase 2-alpha	1974	1
+DNA topoisomerase 1	1972	1
+DNA topoisomerase 1	1993	1
+DNA topoisomerase 1	1994	1
+DNA topoisomerase 1	1995	3
+DNA topoisomerase 1	1996	3
+cGMP-inhibited 3',5'-cyclic phosphodiesterase	1985	1
+cGMP-inhibited 3',5'-cyclic phosphodiesterase	1997	1
+Granulocyte colony-stimulating factor receptor	1987	1
+Granulocyte colony-stimulating factor receptor	1988	1
+Granulocyte colony-stimulating factor receptor	1989	1
+Granulocyte colony-stimulating factor receptor	1990	1
+Granulocyte colony-stimulating factor receptor	1991	1
+Glucagon	1955	1
+Glucagon	1960	1
+Androgen receptor	1969	1
+Androgen receptor	1972	1
+Insulin	1922	1
+Insulin	1982	1
+Epidermal growth factor receptor	1985	1
+Epidermal growth factor receptor	1995	1
+Epidermal growth factor receptor	1996	1
+Epidermal growth factor receptor	1997	1
+Epidermal growth factor receptor	1998	1
+Epidermal growth factor receptor	1999	3
+Epidermal growth factor receptor	2000	3
+Epidermal growth factor receptor	2001	4
+Epidermal growth factor receptor	2002	5
+Epidermal growth factor receptor	2003	6
+Mineralocorticoid receptor	1957	1
+Mineralocorticoid receptor	1960	1
+Somatostatin receptor type 5	1981	1
+Somatostatin receptor type 5	1988	1
+Beta-2 adrenergic receptor	1962	1
+Beta-2 adrenergic receptor	1967	1
+Erythropoietin receptor	1987	1
+Erythropoietin receptor	1989	1
+Peroxisome proliferator-activated receptor gamma	1990	1
+Peroxisome proliferator-activated receptor gamma	1996	1
+Peroxisome proliferator-activated receptor gamma	1997	1
+Estrogen receptor	1957	1
+Estrogen receptor	1977	1
+Alpha-1D adrenergic receptor	1974	1
+Alpha-1D adrenergic receptor	1975	1
+Alpha-1D adrenergic receptor	1976	1
+Alpha-1B adrenergic receptor	1974	1
+Alpha-1B adrenergic receptor	1975	1
+Alpha-1B adrenergic receptor	1976	1
+Progesterone receptor	1956	1
+Progesterone receptor	1957	1
+Beta-1 adrenergic receptor	1962	1
+Beta-1 adrenergic receptor	1967	1
+3-hydroxy-3-methylglutaryl-coenzyme A reductase	1980	1
+3-hydroxy-3-methylglutaryl-coenzyme A reductase	1987	2
+Histamine H2 receptor	1972	1
+Histamine H2 receptor	1977	1
+Low affinity immunoglobulin epsilon Fc receptor	1991	1
+Low affinity immunoglobulin epsilon Fc receptor	2002	2
+Low affinity immunoglobulin epsilon Fc receptor	2003	2
+Bile acid	1961	1
+Bile acid	1964	1
+Uric acid	1996	1
+Uric acid	2002	1
+Human DNA	1968	1
+Human DNA	1969	1
+Pyruvate dehydrogenase [NADP(+)]	1995	1
+Pyruvate dehydrogenase [NADP(+)]	1996	1
+Pyruvate dehydrogenase [NADP(+)]	1998	1
+Pyruvate dehydrogenase [NADP(+)]	2000	1
+Pyruvate dehydrogenase [NADP(+)]	2002	1
+Bacterial penicillin-binding proteins	1930	1
+Bacterial penicillin-binding proteins	1947	1
+Bacterial DNA topoisomerase IV	1962	1
+Bacterial DNA topoisomerase IV	1963	1
+Bacterial DNA topoisomerase IV	1964	1
+DNA-dependent RNA polymerase	1966	1
+DNA-dependent RNA polymerase	1971	1
+Transmembrane protein gp41	1998	1
+Transmembrane protein gp41	1999	1
+Transmembrane protein gp41	2003	1
+Bacterial DNA gyrase	1962	1
+Bacterial DNA gyrase	1963	1
+Bacterial DNA gyrase	1964	1
+Neuraminidase	1994	1
+Neuraminidase	1996	1
+Neuraminidase	1998	1
+Neuraminidase	1999	1
+Reverse transcriptase/ribonuclease H 	1985	1
+Reverse transcriptase/ribonuclease H 	1987	1
+Polymerase/reverse transcriptase domain (RT)	1992	1
+Polymerase/reverse transcriptase domain (RT)	1995	1
+1,3-beta-d-glucan synthase	1995	1
+1,3-beta-d-glucan synthase	1998	1
+1,3-beta-d-glucan synthase	1999	1
+1,3-beta-d-glucan synthase	2000	2
+1,3-beta-d-glucan synthase	2001	3
+Lanosterol 14-alpha demethylase	1985	2
+Lanosterol 14-alpha demethylase	1989	1
+Lanosterol 14-alpha demethylase	1990	1
+Fungal fumarate reductase	1966	1
+Fungal fumarate reductase	1967	1
+Protease	1992	1
+Protease	1994	1
+Protease	1995	3
+DNA polymerase catalytic subunit	1979	1
+DNA polymerase catalytic subunit	1982	1
+Bacterial DNA	1959	1
+Bacterial DNA	1963	1
+Bacterial 50S ribosome subunit	1952	1
+Bacterial cell membrane	1959	1

@@ -4,7 +4,7 @@
 | :------------ | :----------------- |
 | Software Name | BioJar 3.8.5       |
 | Version       | 3.8.5              |
-| Updated       | Sep, 09, 2020      |
+| Updated       | 03, 15, 2021      |
 | Author        | Zhang Hongning     |
 | Email         | zhanghn@zju.edu.cn |
 | Description   | a biological analysis java tool|
@@ -154,4 +154,4 @@ KNN+Cub+MST+POW |40          |10          |.....|40          |
 # ![logo](readmefigure/DRUG_ICON_32.png) Software Updated Information
 &emsp;&emsp;Compared to v3.8.4, v3.8.5 reorganized the project structure to make it more clear.
 
-&emsp;&emsp;This Readme is released at 2020/09/09
+&emsp;&emsp;This Readme is released at 2023/03/15

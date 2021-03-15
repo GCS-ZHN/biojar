@@ -1,0 +1,13 @@
+Small_Molecular_Drug
+Antibody
+Antibody-Drug_Conjugate
+Peptide/Protein_Replacement_Therapy
+Vaccine
+Protein-Drug_Conjugate_(Except_For_Antibody)
+Peptide/Protein
+Nucleic_Acid_Drug
+Gene_Therapy
+Cell_Therapy
+Diagnostic/Imaging_Agent
+Large_molecule
+Monoclonal_Antibody

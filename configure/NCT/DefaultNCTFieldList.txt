@@ -1,0 +1,9 @@
+CompletionDate
+Condition
+NCTId
+OfficialTitle
+Phase
+PrimaryCompletionDate
+StartDate
+InterventionName
+BriefTitle

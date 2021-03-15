@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"biojar"},{"l":"biojar.application"},{"l":"biojar.function"},{"l":"biojar.function.clinical"},{"l":"biojar.function.clinical.drug"},{"l":"biojar.function.clinical.target"},{"l":"biojar.function.graphics"},{"l":"biojar.function.lwj"},{"l":"biojar.function.lwj.webcrawler"},{"l":"所有程序包","url":"allpackages-index.html"}]

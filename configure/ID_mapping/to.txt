@@ -1,0 +1,101 @@
+UniProtKB AC
+UniProtKB ID
+UniParc
+UniRef50
+UniRef90
+UniRef100
+Gene name
+CRC64
+EMBL/GenBank/DDBJ
+EMBL/GenBank/DDBJ CDS
+Entrez Gene (GeneID)
+GI number
+PIR
+RefSeq Nucleotide
+RefSeq Protein
+PDB
+BioGRID
+ComplexPortal
+DIP
+STRING
+ChEMBL
+DrugBank
+GuidetoPHARMACOLOGY
+SwissLipids
+Allergome
+CLAE
+ESTHER
+MEROPS
+PeroxiBase
+REBASE
+TCDB
+GlyConnect
+BioMuta
+DMDM
+World-2DPAGE
+CPTAC
+ProteomicsDB
+DNASU
+Ensembl
+Ensembl Protein
+Ensembl Transcript
+Ensembl Genomes
+Ensembl Genomes Protein
+Ensembl Genomes Transcript
+GeneDB
+GeneID (Entrez Gene)
+KEGG
+PATRIC
+UCSC
+VectorBase
+WBParaSite
+ArachnoServer
+Araport
+CCDS
+CGD
+ConoServer
+dictyBase
+EchoBASE
+euHCVdb
+EuPathDB
+FlyBase
+GeneCards
+GeneReviews
+HGNC
+LegioList
+Leproma
+MaizeGDB
+MGI
+MIM
+neXtProt
+Orphanet
+PharmGKB
+PomBase
+PseudoCAP
+RGD
+SGD
+TubercuList
+VGNC
+WormBase
+WormBase Protein
+WormBase Transcript
+Xenbase
+ZFIN
+eggNOG
+GeneTree
+HOGENOM
+KO
+OMA
+OrthoDB
+TreeFam
+BioCyc
+PlantReactome
+Reactome
+UniPathway
+CollecTF
+DisProt
+IDEAL
+ChiTaRS
+GeneWiki
+GenomeRNAi
+PHI-base
